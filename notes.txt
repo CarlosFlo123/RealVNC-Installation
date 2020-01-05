@@ -1,0 +1,8 @@
+//For setting up the VNC server in raspberry and conect from Laptop.
+
+sudo raspi-config
+
+sudo apt-get install realvnc-vnc-server realvnc-vnc-viewer
+
+
+ifconfig
